@@ -1,0 +1,8 @@
+{"roles":[{"company":"Company 1", "role":"Role 1", "start":"January 2000","end":"January 2000", "preuni":false, "tasks":[
+	{"task":"Task 1", "skills":"skill 1, skill 2"},
+	{"task":"Task 2", "skills":"skill 3"}
+]},
+{"company":"Company 2", "role":"Role 2", "start": "January 1999","end":"January 1999", "preuni":true, "tasks":[
+	{"task":"Task 1","skills":"skill 4"},
+	{"task":"Task 2","skills":"skill 5"}
+]}]}

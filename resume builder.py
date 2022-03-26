@@ -151,7 +151,7 @@ class ResumeForm:
 							if tag in skill_selections and courses[sub_num] not in subject_list:
 								print(courses[sub_num]+' - '+str(grades[sub_num]))
 								doc.add_paragraph(courses[sub_num]+' - '+str(grades[sub_num]), style='List Bullet')
-								subject_list.append[courses[sub_num]]
+								subject_list.append(courses[sub_num])
 		self.progress.step(14)
 		doc.save(resume_name)
 		self.progress.step(15)

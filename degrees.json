@@ -1,0 +1,9 @@
+{"degrees":[{"degree":"degree 2", "major":"major 2", "university":"uni 2","start":"January 2000","end":"January 2000", "WAM":99.99,"courses":[
+	{"course":"course 1","grade":99,"tags":"skill 1, skill 2"},
+	{"course":"course 2","grade":50,"tags":"skill 2, skill 3"}
+]},
+{"degree":"degree 1", "university":"uni 1", "major":"major 1", "start":"January 2000", "end":"January 2000","WAM":50, "courses":[
+	{"course":"course 1","grade":90,"tags":"skill 4"},
+	{"course":"course 2","grade":60,"tags":"skill 2, skill 5"}
+]}
+]}
